@@ -32,3 +32,4 @@ Repo to provide a technical interview screening for software engineers. The goal
     - The tests should be in a folder in the source code of the container
     - The coverage results should be output to a coverage_results file
 - Push the source code to your Github account and create a pull request to the main branch
+  - Provide the link to the pull request for review to your interviewer
